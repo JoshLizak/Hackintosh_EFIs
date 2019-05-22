@@ -407,7 +407,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02714500GUJG361M</string>
+		<string>C02736200J9JG36JC</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -419,7 +419,7 @@
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>220.240.2.0.0</string>
+		<string>220.250.330.0.0</string>
 		<key>Family</key>
 		<string>iMac Pro</string>
 		<key>FirmwareFeatures</key>
@@ -437,9 +437,9 @@
 		<key>ProductName</key>
 		<string>iMacPro1,1</string>
 		<key>SerialNumber</key>
-		<string>C02TJBZUHX87</string>
+		<string>C02VCRZDHX87</string>
 		<key>SmUUID</key>
-		<string>66FA2AA0-4B00-450A-8146-DC566A34962C</string>
+		<string>193354E1-6A99-44FF-9799-8078A5E1C156</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>

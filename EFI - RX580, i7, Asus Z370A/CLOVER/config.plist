@@ -371,17 +371,17 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>06/26/2018</string>
+		<string>12/19/2018</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>IM183.88Z.0161.B00.1806260901</string>
+		<string>IM183.88Z.F000.B00.1812191143</string>
 		<key>Board-ID</key>
 		<string>Mac-BE088AF8C5EB4FA2</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02729300GUJ0PG1M</string>
+		<string>C027284044NJ0PGUE</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -392,6 +392,8 @@
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
 		<string>0x09</string>
+		<key>EfiVersion</key>
+		<string>167.0.0.0.0</string>
 		<key>Family</key>
 		<string>iMac</string>
 		<key>FirmwareFeatures</key>
@@ -402,44 +404,6 @@
 		<string>Part Component</string>
 		<key>Manufacturer</key>
 		<string>Apple Inc.</string>
-		<key>Memory</key>
-		<dict>
-			<key>Modules</key>
-			<array>
-				<dict>
-					<key>Frequency</key>
-					<integer>2400</integer>
-					<key>Part</key>
-					<string>CMK16GX4M2A2400C16</string>
-					<key>Serial</key>
-					<string>Unknown</string>
-					<key>Size</key>
-					<integer>8192</integer>
-					<key>Slot</key>
-					<integer>1</integer>
-					<key>Type</key>
-					<string>DDR4</string>
-					<key>Vendor</key>
-					<string>Corsair</string>
-				</dict>
-				<dict>
-					<key>Frequency</key>
-					<integer>2400</integer>
-					<key>Part</key>
-					<string>CMK16GX4M2A2400C16</string>
-					<key>Serial</key>
-					<string>Unknown</string>
-					<key>Size</key>
-					<integer>8192</integer>
-					<key>Slot</key>
-					<integer>3</integer>
-					<key>Type</key>
-					<string>DDR4</string>
-					<key>Vendor</key>
-					<string>Corsair</string>
-				</dict>
-			</array>
-		</dict>
 		<key>Mobile</key>
 		<false/>
 		<key>PlatformFeature</key>
@@ -447,9 +411,9 @@
 		<key>ProductName</key>
 		<string>iMac18,3</string>
 		<key>SerialNumber</key>
-		<string>C02V34Y3J1GJ</string>
+		<string>C02V206DJ1GJ</string>
 		<key>SmUUID</key>
-		<string>CBE6D009-514C-4171-BCA2-0503A3A4FCD6</string>
+		<string>3D6EE61A-ECEF-41C4-AAEE-480470B28B5D</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
